@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+}
+
+#myLabel{
+    font-family: 'Lucida Sans';
+    font-weight: bold;
+}
+
+#myBtn{
+    background-color: rgba(238, 129, 39, 0.753);
+    border: 1px solid rgba(0, 0, 0, 0.753);
+    border-radius: 3px;
+    transform: background-color(1s);
+    padding: 2px 8px;
+    
+}
+
+#myBtn:hover{
+    background-color: rgb(255, 174, 0);
+    transition: 0.7s; 
+}
+
+#resultBtn{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
